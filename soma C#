@@ -1,7 +1,7 @@
 using System;
 
-class MainClass {
-  public static void Main (string[] args) {
+class SomaInteiros{
+  public static void Main (string[] args){
     int n1, n2, soma;
 
     Console.Write("n1: ");
